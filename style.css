@@ -46,7 +46,7 @@ nav ul li a{
 }
 
 section.home .banner_wrapper {
-  background-image: url(/assets/banner-bg.png);
+  background-image: url(./assets/banner-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 40px;
@@ -260,7 +260,7 @@ section.home .banner_wrapper {
 }
 
 .pedro-rodriguez-wrapper {
-  background-image: url(/assets/banner-bg.png);
+  background-image: url(./assets/banner-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 105px 0;
